@@ -4,8 +4,8 @@
 # Leave example files that can be renamed and used for local setup
 # ------------------------------------------------------------
 craft/config/local/*
-!craft/config/local/db.php.example
-!craft/config/local/general.php.example
+!craft/config/local/db.example.php
+!craft/config/local/general.example.php
 
 
 # MISC FILES
